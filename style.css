@@ -39,9 +39,10 @@ html, body {
 }
 
 .gif img {
+  border-radius: 15px;
   max-width: 100%;
   max-height: 100%;
-  border: 1px solid black;
+  border: 6px solid #81A1C1;
 }
 
 .head {
