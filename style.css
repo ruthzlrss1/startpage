@@ -1,15 +1,15 @@
 :root {
-    --color-bg: #282828;
-    --color-fg: #EADBB2;
-    --color-link: #8F9191;
-    --color-link-visited: #668F8B;
-    --color-link-hover: #FA7921 ;
+    --color-bg: #2E3440;
+    --color-fg: #ECEFF4;
+    --color-link: #4C566A;
+    --color-link-visited: #81A1C1;
+    --color-link-hover: #B48EAD;
 }
 
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  font-family: "SpaceMono NF";
   height: 100%;
   width: 100%;
   margin: 0;
