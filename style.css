@@ -43,6 +43,7 @@ html, body {
   max-width: 100%;
   max-height: 100%;
   border: 6px solid #81A1C1;
+  filter: drop-shadow(0px 0px 4px #4C566A);
 }
 
 .head {
